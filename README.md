@@ -33,4 +33,7 @@
 - Python
 - Java
 
+## 💻 Completed courses
+- [**Machine Learning for Trading**](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaof9352)](https://github.com/anuraghazra/github-readme-stats)
