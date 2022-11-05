@@ -21,6 +21,14 @@
 | --- | :---: |
 | Processamento de Linguagens | [Projects](https://github.com/joaof9352/PL) |
 
+| 4<sup>th</sup> year - 1<sup>nd</sup> semester | |
+| --- | :---: |
+| Engenharia de Serviços em Rede | [Projects](https://) |
+| Computação Paralela | [Projects](https://) |
+| Dados e Aprendizagem Automática | [Projects](https://) |
+| Requisitos e Arquiteturas de Software | [Projects](https://) |
+| Aplicações e Serviços de Computação em Nuvem | [Projects](https://) |
+
 ## 🧩 My other projects
 
 - [**unWordle**](https://github.com/joaof9352/unWordle) - A solver to the famous game Wordle.
