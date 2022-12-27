@@ -33,6 +33,7 @@
 
 - [**unWordle**](https://github.com/joaof9352/unWordle) - A solver to the famous game Wordle.
 - [**AlgorithmicTrading**](https://github.com/joaof9352/AlgorithmicTrading) - Projects in the field of Algorithmic Trading.
+- [**Machine Learning Projects**](https://github.com/joaof9352/ML_Portfolio)
 
 ## 💻 My programming skills
 
