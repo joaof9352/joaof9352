@@ -23,7 +23,7 @@
 
 | 4<sup>th</sup> year - 1<sup>nd</sup> semester | |
 | --- | :---: |
-| Engenharia de Serviços em Rede | [Projects]((https://github.com/Hugand/ESR-TP2) |
+| Engenharia de Serviços em Rede | [Projects](https://github.com/Hugand/ESR-TP2) |
 | Computação Paralela | [Projects](https://) |
 | Dados e Aprendizagem Automática | [Projects](https://) |
 | Requisitos e Arquiteturas de Software | [Projects](https://github.com/TBlanc157/RasBet) |
